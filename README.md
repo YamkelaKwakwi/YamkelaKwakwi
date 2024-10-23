@@ -1,4 +1,4 @@
-![MasterHead](./banner.jpg)  <!-- Local header image -->
+![MasterHead](./header.jpg)  <!-- Local header image -->
 
 <h1 align="center">Hi 👋, I'm Yamkela</h1>
 <h3 align="center">Aspiring data scientist in Cape Town, South Africa.</h3>
